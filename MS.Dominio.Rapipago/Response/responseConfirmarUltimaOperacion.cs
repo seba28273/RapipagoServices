@@ -10,6 +10,9 @@ namespace MS.Dominio.Rapipago.Response
     {
         public int codPuesto { get; set; }
         public int codResul { get; set; }
-        public string descResul { get; set; } = String.Empty;
+        public string descResul { get; set; } = String.Empty;    
+
+        
     }
 }
+     
